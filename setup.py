@@ -2,7 +2,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="cv2",  # This is the name of your package
+    name="testcv2",  # This is the name of your package
     version="0.0.1",  # Initial version
     packages=find_packages(),  # Automatically finds the `cv2` package
     description="Compute Vector",
